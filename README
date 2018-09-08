@@ -1,6 +1,6 @@
 ﻿mybatis源码中文注释版
 
-1.兵马未动，日志先行
+1.兵马未动，日志先行 
 org.apache.ibatis.logging
 org.apache.ibatis.logging.commons
 org.apache.ibatis.logging.jdbc
